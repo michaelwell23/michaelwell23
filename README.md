@@ -12,7 +12,7 @@ Estudo programação desde 2005 onde tive os meus primeiros contatos com a progr
 </div>
  <br/>
 <div>
-  <a href="https://portfoliomichaelwell.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-FF4040?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a> 
+
   <a href="https://www.linkedin.com/in/michael-wellington-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
