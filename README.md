@@ -1,6 +1,6 @@
 ### Olá, sou o [Michael Wellington Lopes](https://www.linkedin.com/in/michael-wellington-lopes/)
 
-Estudo programação desde 2005 onde tive os meus primeiros contatos com a programação. Sou uma pessoa focada, disciplinada e resiliente, sempre buscando qualidade, arquitetura e boa práticas de programação. Já passei por diversas linguagens, mas a linguagem que escolhi para trabalhar é o JavaScript, pois nela tenho mais praticidade, pois extrai o melhor do meu potencial para programar com maestria. 
+Sou uma pessoa focada, disciplinada e resiliente, sempre buscando qualidade, arquitetura e boa práticas de programação. Já passei por diversas linguagens, mas a linguagem que escolhi para trabalhar é o JavaScript, pois nela tenho mais praticidade, pois extrai o melhor do meu potencial para programar com maestria. 
 
 
 <br/>
